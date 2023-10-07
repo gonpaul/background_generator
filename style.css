@@ -14,7 +14,7 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
-    width: 100%;
+    width: 100vw;
     margin-bottom: 100px;
     padding-bottom: 15px;
     border-bottom: 1px solid grey;
